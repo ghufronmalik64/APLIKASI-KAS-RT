@@ -1,14 +1,12 @@
 # APLIKASI-KAS-RT KELOMPOK 7
 
-| NO |      DAFTAR ISI      |   LINK    |
-|----|----------------------|-----------|
-| 1  |Penjelasan            |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#1-penjelasan)
-| 2  |Teknologi Yang Digunakan |[Click]()|
-| 3  |Daftar Nilai          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
-| 4  |Input Nilai           |[Click](https://github.com/ghufronmalik64/Project-UAS#2-INPUT-NILAI)|
-| 5  |View Nilai            |[Click](https://github.com/ghufronmalik64/Project-UAS#3-VIEW-NILAI)|
-| 6  |MAIN                  |[Click](https://github.com/ghufronmalik64/Project-UAS#4-MAIN)|
-| 7  |Hasil Output          |[Click](https://github.com/ghufronmalik64/Project-UAS#5-HASIL-UPUTPUT)|
+| NO |        DAFTAR ISI       |   LINK    |
+|----|-------------------------|-----------|
+| 1  |Penjelasan               |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#1-penjelasan)
+| 2  |Teknologi Yang Digunakan |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#ii-teknologi-yang-digunakan)|
+| 3  |Install & Runing Project |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#iii-cara-install-dan-menjalankan-proyek)|
+| 4  |Kontribusi               |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#iv-kontribusi)|
+
 
 
 ## I. Penjelasan
