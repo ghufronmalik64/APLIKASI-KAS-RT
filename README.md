@@ -1,12 +1,12 @@
 # APLIKASI-KAS-RT KELOMPOK 7
 
-| NO |        Anggota        |  Link GitHub  |  Link YouTube  |
+| NO |        ANGGOTA        |  LINK GITHUB  |  LINK YOUTUBE  |
 |----|-----------------------|---------------|----------------|
 | 1  |Ghufron Malik          |[Click](https://github.com/ghufronmalik64)      |[Click](https://www.youtube.com/@massssalek)       |
 | 2  |Dilah Adelia Putri     |[Click](https://github.com/fadilah23)      |[Click](https://www.youtube.com/@fadilahputri2855)       |
 | 3  |Nova Restina Maharani  |[Click](https://github.com/NovaRestina)      |[Click](https://www.youtube.com/@novarestinamaharani7047)       |
 
---------------------------------------------------------------------
+-------------------------------------------
 
 | NO |        DAFTAR ISI       |   LINK    |
 |----|-------------------------|-----------|
@@ -15,7 +15,7 @@
 | 3  |Install & Runing Project |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#iii-cara-install-dan-menjalankan-proyek)|
 | 4  |Kontribusi               |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#iv-kontribusi)|
 
-
+-------------------------------------------
 
 ## I. Penjelasan
 Aplikasi Kas RT adalah solusi digital untuk manajemen keuangan dan komunikasi di lingkungan RT. Aplikasi ini menyediakan fitur-fitur lengkap untuk mempermudah pengelolaan keuangan, notifikasi, dan komunikasi antara pengurus RT dan warga. Berikut adalah deskripsi fitur-fitur utama yang tersedia dalam aplikasi ini.
