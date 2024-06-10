@@ -1,5 +1,11 @@
 # APLIKASI-KAS-RT KELOMPOK 7
 
+| NO |        Anggota        |  Link GitHub  |  Link YouTube  |
+|----|-----------------------|---------------|----------------|
+| 1  |Ghufron Malik          |[Click](https://github.com/ghufronmalik64)      |[Click](https://www.youtube.com/@massssalek)       |
+| 2  |Dilah Adelia Putri     |[Click](https://github.com/fadilah23)      |[Click](https://www.youtube.com/@fadilahputri2855)       |
+| 3  |Nova Restina Maharani  |[Click](https://github.com/NovaRestina)      |[Click](https://www.youtube.com/@novarestinamaharani7047)       |
+
 | NO |        DAFTAR ISI       |   LINK    |
 |----|-------------------------|-----------|
 | 1  |Penjelasan               |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#1-penjelasan)
