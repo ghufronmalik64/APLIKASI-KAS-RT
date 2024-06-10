@@ -2,19 +2,20 @@
 
 Aplikasi Kas RT adalah solusi digital untuk manajemen keuangan dan komunikasi di lingkungan RT. Aplikasi ini menyediakan fitur-fitur lengkap untuk mempermudah pengelolaan keuangan, notifikasi, dan komunikasi antara pengurus RT dan warga. Berikut adalah deskripsi fitur-fitur utama yang tersedia dalam aplikasi ini.
 
-## 1. Laporan Keuangan Kas RT Warga
+**1. Laporan Keuangan Kas RT Warga** <br>
 **Deskripsi:** Menyediakan laporan detail mengenai pemasukan dan pengeluaran kas RT yang bisa diakses oleh warga.
 
-## 2. Notifikasi Laporan Kas RT dari Firebase
+**2. Notifikasi Laporan Kas RT dari Firebase** <br>
 **Deskripsi:** Mengirimkan notifikasi kepada warga setiap ada laporan baru atau perubahan dalam kas RT.
 
-## 3. Cloud Messaging Kas RT dari Firebase
+**3. Cloud Messaging Kas RT dari Firebase** <br>
 **Deskripsi:** Memungkinkan pengurus RT mengirim pesan atau informasi penting kepada warga secara cepat.
 
-## 4. Notifikasi bagi warga yang belum membayar
+**4. Notifikasi bagi warga yang belum membayar** <br>
 **Deskripsi:** Mengirimkan pengingat otomatis kepada warga yang belum membayar iuran RT.
 
-## Fitur Referensi dari RT Pintar
+
+## 1. Fitur Referensi dari RT Pintar
 - **Manajemen RT/RW/Cluster/Perumahan**
 - **Pembayaran secara Digital** 
 - **Pembukuan Keuangan/Kas** 
@@ -28,20 +29,20 @@ Aplikasi Kas RT adalah solusi digital untuk manajemen keuangan dan komunikasi di
 - **Chatbot Tagihan** 
 - **Pengelolaan Lingkungan Terintegrasi**
 
-## Teknologi yang Digunakan
+## 2. Teknologi yang Digunakan
 - **Backend**: [APISpreadsheet.com](https://apispreadsheet.com/)
 - **Frontend**: Android (Java/Kotlin)
 - **Notifikasi & Cloud Messaging**: Firebase
 
-Cara Install dan Menjalankan Proyek
-### Backend
+## 3. Cara Install dan Menjalankan Proyek
+### 3.1 Backend
 1. **Buat Spreadsheet di Google Sheets**:
    - Buat spreadsheet baru di Google Sheets dengan kolom yang sesuai untuk mencatat keuangan kas RT.
    - Misalnya, kolom `Date`, `Type`, `Amount`, `Description`, dll.
 2. **Dapatkan API Key dari APISpreadsheet.com**:
    - Daftar dan masuk ke [APISpreadsheet.com](https://apispreadsheet.com/).
    - Ikuti panduan untuk menghubungkan Google Sheets Anda dan dapatkan API Key serta URL endpoint.
-### Frontend
+### 3.2 Frontend
 1. **Buat Proyek Baru di Android Studio**:
    - Buka Android Studio dan buat proyek baru dengan template "Empty Activity".
    - Pilih bahasa pemrograman yang diinginkan (Java atau Kotlin).
@@ -53,18 +54,8 @@ Cara Install dan Menjalankan Proyek
     ```
 
 3. **Tambahkan Dependensi untuk HTTP Requests dan Firebase**:
-
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
-   - Buka `build.gradle` (Module: app) dan tambahkan dependensi berikut:
+   - Buka `build.gradle` (Module: app) dan tambahkan dependensi berikut: 
+   
     ```groovy
     dependencies {
         implementation 'com.squareup.retrofit2:retrofit:2.9.0'
@@ -174,7 +165,7 @@ Cara Install dan Menjalankan Proyek
             android:layout_height="match_parent" />
     </LinearLayout>
     ```
-### Integrasi Firebase untuk Notifikasi dan Cloud Messaging
+### 3.3 Integrasi Firebase untuk Notifikasi dan Cloud Messaging
 1. **Tambahkan Firebase ke Proyek Android**:
    - Ikuti petunjuk di [Firebase Console](https://console.firebase.google.com/) untuk menambahkan Firebase ke proyek Android Anda.
 2. **Tambahkan Firebase Cloud Messaging**:
@@ -203,4 +194,7 @@ Cara Install dan Menjalankan Proyek
     }
     ```
 
-## Kontribusi
+## 4. `Kontribusi
+**Kontribusi sangat diterima dan dihargai. Silakan fork repositori ini dan buat pull request Anda.**
+
+Aplikasi Kas RT dirancang untuk mempermudah pengelolaan dan komunikasi di lingkungan RT, serta meningkatkan transparansi dan efisiensi dalam manajemen keuangan RT. Kami berharap aplikasi ini dapat memberikan manfaat yang signifikan bagi pengurus RT dan warga.
