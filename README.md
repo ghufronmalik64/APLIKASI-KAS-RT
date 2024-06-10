@@ -2,8 +2,8 @@
 
 | NO |      DAFTAR ISI      |   LINK    |
 |----|----------------------|-----------|
-| 1  |Penjelasan            |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#aplikasi-kas-rt)
-| 2  |Teknologi Yang Digunakan |[Click](https://youtu.be/jBr1aiDy788)|
+| 1  |Penjelasan            |[Click](https://github.com/ghufronmalik64/APLIKASI-KAS-RT?tab=readme-ov-file#1-penjelasan)
+| 2  |Teknologi Yang Digunakan |[Click]()|
 | 3  |Daftar Nilai          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
 | 4  |Input Nilai           |[Click](https://github.com/ghufronmalik64/Project-UAS#2-INPUT-NILAI)|
 | 5  |View Nilai            |[Click](https://github.com/ghufronmalik64/Project-UAS#3-VIEW-NILAI)|
@@ -11,7 +11,7 @@
 | 7  |Hasil Output          |[Click](https://github.com/ghufronmalik64/Project-UAS#5-HASIL-UPUTPUT)|
 
 
-## 1. Penjelasan
+## I. Penjelasan
 Aplikasi Kas RT adalah solusi digital untuk manajemen keuangan dan komunikasi di lingkungan RT. Aplikasi ini menyediakan fitur-fitur lengkap untuk mempermudah pengelolaan keuangan, notifikasi, dan komunikasi antara pengurus RT dan warga. Berikut adalah deskripsi fitur-fitur utama yang tersedia dalam aplikasi ini.
 
 **1. Laporan Keuangan Kas RT Warga** <br>
@@ -27,13 +27,13 @@ Aplikasi Kas RT adalah solusi digital untuk manajemen keuangan dan komunikasi di
 **Deskripsi:** Mengirimkan pengingat otomatis kepada warga yang belum membayar iuran RT.
 
 
-## 2. Teknologi yang Digunakan
+## II. Teknologi yang Digunakan
 
 - **Backend**: [APISpreadsheet.com](https://apispreadsheet.com/)
 - **Frontend**: Android (Java/Kotlin)
 - **Notifikasi & Cloud Messaging**: Firebase
 
-## 3. Cara Install dan Menjalankan Proyek
+## III. Cara Install dan Menjalankan Proyek
 
 ### 3.1 Backend
 
@@ -212,7 +212,7 @@ Aplikasi Kas RT adalah solusi digital untuk manajemen keuangan dan komunikasi di
     }
     ```
 
-## 4. Kontribusi
+## IV. Kontribusi
 **Kontribusi sangat diterima dan dihargai. Silakan fork repositori ini dan buat pull request Anda.**
 
 Aplikasi Kas RT dirancang untuk mempermudah pengelolaan dan komunikasi di lingkungan RT, serta meningkatkan transparansi dan efisiensi dalam manajemen keuangan RT. Kami berharap aplikasi ini dapat memberikan manfaat yang signifikan bagi pengurus RT dan warga.
